@@ -1,0 +1,16 @@
+{
+    "terminal.integrated.rendererType": "dom",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 12,
+    "editor.wordWrap": "on",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "gitlens.currentLine.enabled": false,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "vsicons.dontShowNewVersionMessage": true,
+    "latex-workshop.message.update.show": false,
+    "csharp.suppressDotnetInstallWarning": true,
+    "todo-tree.tree.showScanModeButton": false,
+    "git.enableSmartCommit": true,
+    "diffEditor.ignoreTrimWhitespace": false
+}
