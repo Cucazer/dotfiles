@@ -59,6 +59,10 @@ end
 
 alias gti git
 alias a 'git amend --allow-empty'
+alias gst 'git status'
+alias gc 'git commit'
+alias gpl 'git pull'
+alias gps 'git push'
 
 function git-search
     git log -S"$argv" --pretty=format:%H | map git show 
